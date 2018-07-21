@@ -4,7 +4,7 @@ body {
     text-align: center;
     letter-spacing: .5em;
     top: 15%;
-	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+	background: linear-gradient(to right, #43818b , #b87e93); /* Standard syntax */
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: .3em;
     width: 100%;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Dosis', sans-serif;   
 }
 
 h3 {
